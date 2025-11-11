@@ -2,3 +2,4 @@ Hello, how are you? Wanted to let you know that I love you.
 Today is Monday - don't forget to submit your expenses and review the opps in Salesforce! 
 Hello Alice, hope you're doing well. Don't forget to brush your teeth! Lova you. XOXO. 
 Daniel loves you, he whould like to ask you: "What is your favorite type of pizza?"
+My favorite tyoe of pizza is cheese of course! 
